@@ -1,7 +1,7 @@
 
 
 workflow :
-1. expo -> npx expo start
+1.  npx create-expo-app@latest *appname* -> npx expo start
 
 than -> expo export:web 
 
